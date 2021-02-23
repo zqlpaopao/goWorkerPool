@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoRoutinePool/src"
 	"fmt"
+	"github.com/goroutinePool/src"
 	"runtime"
 	"time"
 )
